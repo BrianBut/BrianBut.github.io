@@ -4,19 +4,13 @@ layout: default
 
 <div class="w3-container">
     <h1><b>Essays</b></h1>
-    {% raw %}
-    {% assign sorted = site.pages | sort: 'eventDate' %}
- 
-  <ul class="w3-ul w3-hoverable">
-    {% for page in sorted %}
-        {% if page.title and page.published and page.category == "essays" %}
-        <li class="w3-large">
+    {% for page in site.pages %}
+      {% if page.published %}
+        {% if page.category == 'essay' %}
+        <li>
             <a href="{{ page.url }}">{{ page.title }} {{ page.eventDate }}</a>
         </li>
         {% endif %}
+      {% endif %}
     {% endfor %}
-    
-  </ul>
-  {% endraw %}
-
 </div>

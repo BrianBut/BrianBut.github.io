@@ -2,8 +2,6 @@
 layout: post
 title:  "Covid Strategy"
 eventDate: 2020
-published: true
-advertise: false
 category: essay
 ---
 
