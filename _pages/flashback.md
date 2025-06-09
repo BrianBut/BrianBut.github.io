@@ -59,6 +59,6 @@ An hour out from the Park I was driving along an empty dirt road when I saw a la
 
 We drove into Colenso and had a look around. Colenso was not a welcoming place.
 
-Ladysmith just as bad. The Museum was an expression of aggrieved Boers and a display of guns. It was not a relaxing place.
+Ladysmith just as bad. The Museum was an expression of aggrieved Boers and a display of guns. It was even less welcoming.
 
 
