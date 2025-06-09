@@ -4,6 +4,7 @@ layout: default
 
 <div class="w3-container">
     <h1><b>Flashbacks</b></h1>
+    {% raw %}
     {% assign sorted = site.pages | sort: 'eventDate' %}
  
   <ul class="w3-ul w3-hoverable">
@@ -16,5 +17,6 @@ layout: default
     {% endfor %}
     
   </ul>
+  {% endraw %}
 
 </div>
