@@ -55,4 +55,10 @@ We were finally able to cross the stream and walk back to the camp. The Park War
 
 The next day we started out on the long journey home to Mafikeng. On the way we chose to pass by Spyon Kopje (Spion Kop), Colenso and Ladysmith. 
 
-An hour out from the Park I was driving along an empty dirt road when I saw a large boulder rolling into my path. I was able to avoid it, and continue without slowing down. I was aware that in rural South Africa people roll things in the road in the hope of causing an accident. They can then steal the contents of the car.
+An hour out from the Park I was driving along an empty dirt road when I saw a large boulder rolling into my path. I was able to avoid it, and continue without slowing down. I had read that in some parts of rural South Africa people roll things in the road in the hope of causing an accident. They can then steal the contents of the car.
+
+We drove into Colenso and had a look around. Colenso was not a welcoming place.
+
+Ladysmith just as bad. The Museum was an expression of aggrieved Boers and a display of guns. It was not a relaxing place.
+
+
