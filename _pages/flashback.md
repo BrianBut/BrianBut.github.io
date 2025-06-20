@@ -21,19 +21,19 @@ Colenso, Spion Kop (Spyon Kopje), Ladysmith: the names and dates inscribed on th
 
 South Africa had, and still has, very high levels of murder and violent crime. 
 
-En route to the area Ann and I visited Durban for the first and last time; staying overnight in a hotel. There was more gunfire than in Mafikeng, but less than in Alice. In the morning it became obvious the the hotel was also a brothel. Feeling uncomfortable we drove north to walk the Drakensburg trails. The landscape and flora are a relief.
+En route to the area Ann and I visited Durban for the first and last time; staying overnight in a hotel. At night there was more gunfire than in Mafikeng, but less than in Alice. In the morning it became obvious the the hotel was also a brothel. Feeling uncomfortable we drove north to walk the Drakensburg trails. The landscape and flora are a relief.
 
 The two of us expected a three day walk, but, fortunately, as things turned out, carried enough food for a week as we thought we might be delayed by flash flooding of the streams we had to cross. 
 
 The walk started with a steady climb crossing and recrossing a stream, but then in the afternoon came a thunderstorm. We sheltered under a rock outcrop. The rain stopped. The stream had risen so that it had become difficult to cross. We crossed it in light rain. The rain continued, so on a hidden away patch of level ground we erected our tent, made a meal, and stayed in the tent for the rain to stop. 
 
-The rain did not stop for two whole days. On the third day we were able to continue walking in light rain. 
+The rain did not stop for two whole days. On the third day we were able to continue walking in light rain. But every small stream had become an obstacle.
 
 That night we were able to camp higher up the mountainside. All night there was an animal or animals snuffling and moving around outside our tent. We did not open the tent door. Wild boor, warthog, porcupine, jackal, eland or other buck? -- the imagination worked overtime. I remembered the time in Tanganyika when I opened my tent door to find a troop of hyenas between me and the latrines. (I did not think there were hyenas in the Drakensberg National Park.) In the morning when I went out I found porcupine quills. I'm glad I didn't open the tent door and get some of those quills in my face.
 
 Onthe fourth day we took advantage of some of the many of the rock shelters we came across. 
 
-Those rock shelters were remarkable because so many of them contain Bushman art. You enter a rock cave or crawl under a rock shelter which looks entirely devoid of anything but rock. But then when your eyes have adapted the animals, and sometimes men appear. The buck are wonderfully clear and accurately drawn.
+Those rock shelters were remarkable because so many of them contain Bushman art. You enter a rock cave or crawl under a rock shelter which looks entirely devoid of anything but rock. But then when your eyes have adapted to the shade the animals, and sometimes men appear. The buck are wonderfully clear and accurately drawn.
 
 It is a shame that so many of these paintings have been damaged by wood smoke from wood fires in the shelters. The only good thing is that rock (or cave) paintings can still be found as far north as northern Zimbabwe.
 
@@ -51,7 +51,7 @@ We had to camp for another night. The flattest ground was at the foot of the cli
 
 In the low sunlight of the morning I could see into a rockshelter by our campsite. The entrance was less than a foot high. In the shelter was a realistic painting of a gazelle. It confirmed our view that there are many more shelters in the Drakesberg National Park with paintings in them than the tourist guides suggest.
 
-We were finally able to cross the stream and walk back to the camp. The Park Wardens had received our note, and told us how excited the little boy who found it was. There we still twenty visitors who had not signed out. We had see no-one all week.
+We were finally able to cross the stream and walk back to the camp. The Park Wardens had received our note, and told us how excited the little boy who found it was. There we still twenty overdue visitors on the hill who had not signed out. We had see no-one all week.
 
 The next day we started out on the long journey home to Mafikeng. On the way we chose to pass by Spyon Kopje (Spion Kop), Colenso and Ladysmith. 
 
